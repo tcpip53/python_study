@@ -1,0 +1,107 @@
+#binary=100
+#float=100.27
+#type(float)
+
+#print(0o123)
+#print(0x123)
+
+print(True > False)
+print(1 > 0)
+print(True < False)
+print(1 < 0)
+#print(False)
+#print (1<5)
+a=12
+b=8
+print(a+b)
+
+x
+
+
+print("List of priorities\n---")
+
+
+
+''''
+print("subtraction\n---")
+print(-4 - 4)
+print(4.- 8)
+print(-1.1)
+print("Subtraction is a unary operator,meaning that it only needs one imp
+
+
+print("Addition\n----")
+print(-4 + 4)
+print(-4. + 8)
+
+print("Remainder(modulo)\n----")
+print(14 %4)
+print(12 % 4.5)
+print(12 / 0)
+
+print("Interger Division\n----")
+
+print(6 // 3)
+print(6 // 3.)
+print(6. // 3)
+print(6. // 3.)
+
+print("interger division means the results will alwauy be rounded, it can have intergers and floats as results\n")
+
+print(6 // 4)
+print(6. // 4.)
+
+print(6. / 4.)
+
+print(-6 // 4)
+print(6. // -4)
+
+a=-6
+b=4
+c=a//b
+print(type(c))
+print(c)
+d=6.
+e=-4
+f=d//e
+print(type(f))
+print(f)
+
+
+
+
+
+print("Division\n----")
+
+print(6 / 3)
+print(6 / 3.)
+print(6. / 3)
+print(6. / 3.)
+
+print("the results from dividing will always be a float. If the results\n needs to be a float a double slash \"//\" is need")
+
+
+print("Exponent\n----")
+
+print(2 ** 3)
+print(2 ** 3.)
+print(2. ** 3)
+print(2. ** 3)
+
+print("multiplication\n----")
+
+print(2 * 3)
+print(2 * 3.)
+print(2. * 3)
+print(2. * 3)
+
+print("Basic operators\n----")
+print(" +\n")
+print(" -\n")
+print(" *\n")
+print(" /\n")
+print(" //\n")
+print(" %\n")
+print(" **\n")
+'''
+
