@@ -1,20 +1,20 @@
 
-##2  **Notes**
+##  **Notes**
 
-## varible types 
+### varible types 
 ```
 binary=100
 float=100.27
 type(float)
 ```
 
-hex
+### hex
 ```
 print(0o123)
 print(0x123)
 ```
 
-bolean operations 
+### bolean operations 
 ``` 
 print(True > False)
 print(1 > 0)
@@ -40,12 +40,12 @@ print(type(f))
 print(f)
 ```
 
-##2  **List of priorities**
+##  **List of priorities**
 (WIP)
 
 
 
-##2  **subtraction**
+##  **subtraction**
 ```
 print(-4 - 4)
 print(4.- 8)
@@ -53,20 +53,20 @@ print(-1.1)
 ```	
 Subtraction is a unary operator,meaning that it only needs one input
 
-##2  **Addition**
+## **Addition**
 ```
 print(-4 + 4)
 print(-4. + 8)
 ```
 
-##2 **Remainder(modulo)**
+## **Remainder(modulo)**
 ```
 print(14 %4)
 print(12 % 4.5)
 print(12 / 0)
 ```
 
-##2  **Interger Division**
+##  **Interger Division**
 ```
 print(6 // 3)
 print(6 // 3.)
@@ -83,7 +83,7 @@ print(-6 // 4)
 print(6. // -4)
 ```
 
-##2 **Division**
+## **Division**
 ```
 print(6 / 3)
 print(6 / 3.)
@@ -93,14 +93,14 @@ print(6. / 3.)
 the results from dividing will always be a float. If the results\n needs to be a float a double slash
 
 
-##2  **Exponent**
+## **Exponent**
 ```
 print(2 ** 3)
 print(2 ** 3.)
 print(2. ** 3)
 print(2. ** 3)
 ```
-##2  **multiplication**
+## **multiplication**
 ```
 print(2 * 3)
 print(2 * 3.)
@@ -109,7 +109,7 @@ print(2. * 3)
 ```
 
 
-##2 **Basic operators**
+## **Basic operators**
 |Symbol|Name|
 |-----|------|
 | +| Addition|
