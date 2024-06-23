@@ -1,62 +1,34 @@
-#binary=100
-#float=100.27
-#type(float)
 
-#print(0o123)
-#print(0x123)
+**Notes**
 
+varible types 
+```
+binary=100
+float=100.27
+type(float)
+```
+
+hex
+```
+print(0o123)
+print(0x123)
+```
+
+bolean operations 
+``` 
 print(True > False)
 print(1 > 0)
 print(True < False)
 print(1 < 0)
-#print(False)
-#print (1<5)
+print(False)
+print (1<5)
+```
+
+```
 a=12
 b=8
 print(a+b)
 
-x
-
-
-print("List of priorities\n---")
-
-
-
-''''
-print("subtraction\n---")
-print(-4 - 4)
-print(4.- 8)
-print(-1.1)
-print("Subtraction is a unary operator,meaning that it only needs one imp
-
-
-print("Addition\n----")
-print(-4 + 4)
-print(-4. + 8)
-
-print("Remainder(modulo)\n----")
-print(14 %4)
-print(12 % 4.5)
-print(12 / 0)
-
-print("Interger Division\n----")
-
-print(6 // 3)
-print(6 // 3.)
-print(6. // 3)
-print(6. // 3.)
-
-print("interger division means the results will alwauy be rounded, it can have intergers and floats as results\n")
-
-print(6 // 4)
-print(6. // 4.)
-
-print(6. / 4.)
-
-print(-6 // 4)
-print(6. // -4)
-
-a=-6
 b=4
 c=a//b
 print(type(c))
@@ -66,35 +38,78 @@ e=-4
 f=d//e
 print(type(f))
 print(f)
+```
+
+**List of priorities**
+(WIP)
 
 
 
+**subtraction**
+```
+print(-4 - 4)
+print(4.- 8)
+print(-1.1)
+```	
+Subtraction is a unary operator,meaning that it only needs one input
 
+**Addition**
+```
+print(-4 + 4)
+print(-4. + 8)
+```
 
-print("Division\n----")
+**Remainder(modulo)**
+```
+print(14 %4)
+print(12 % 4.5)
+print(12 / 0)
+```
 
+**Interger Division**
+```
+print(6 // 3)
+print(6 // 3.)
+print(6. // 3)
+print(6. // 3.)
+```
+interger division means the results will alwauy be rounded, it can have intergers and floats as results
+
+```
+print(6 // 4)
+print(6. // 4.)
+print(6. / 4.)
+print(-6 // 4)
+print(6. // -4)
+```
+
+**Division**
+```
 print(6 / 3)
 print(6 / 3.)
 print(6. / 3)
 print(6. / 3.)
+````
+the results from dividing will always be a float. If the results\n needs to be a float a double slash
 
-print("the results from dividing will always be a float. If the results\n needs to be a float a double slash \"//\" is need")
 
-
-print("Exponent\n----")
-
+**Exponent**
+```
 print(2 ** 3)
 print(2 ** 3.)
 print(2. ** 3)
 print(2. ** 3)
+```
 
-print("multiplication\n----")
-
+**multiplication**
+```
 print(2 * 3)
 print(2 * 3.)
 print(2. * 3)
 print(2. * 3)
+```
 
+```
 print("Basic operators\n----")
 print(" +\n")
 print(" -\n")
