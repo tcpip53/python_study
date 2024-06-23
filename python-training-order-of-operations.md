@@ -1,7 +1,7 @@
 
-**Notes**
+##2  **Notes**
 
-varible types 
+## varible types 
 ```
 binary=100
 float=100.27
@@ -40,12 +40,12 @@ print(type(f))
 print(f)
 ```
 
-**List of priorities**
+##2  **List of priorities**
 (WIP)
 
 
 
-**subtraction**
+##2  **subtraction**
 ```
 print(-4 - 4)
 print(4.- 8)
@@ -53,20 +53,20 @@ print(-1.1)
 ```	
 Subtraction is a unary operator,meaning that it only needs one input
 
-**Addition**
+##2  **Addition**
 ```
 print(-4 + 4)
 print(-4. + 8)
 ```
 
-**Remainder(modulo)**
+##2 **Remainder(modulo)**
 ```
 print(14 %4)
 print(12 % 4.5)
 print(12 / 0)
 ```
 
-**Interger Division**
+##2  **Interger Division**
 ```
 print(6 // 3)
 print(6 // 3.)
@@ -83,7 +83,7 @@ print(-6 // 4)
 print(6. // -4)
 ```
 
-**Division**
+##2 **Division**
 ```
 print(6 / 3)
 print(6 / 3.)
@@ -93,15 +93,14 @@ print(6. / 3.)
 the results from dividing will always be a float. If the results\n needs to be a float a double slash
 
 
-**Exponent**
+##2  **Exponent**
 ```
 print(2 ** 3)
 print(2 ** 3.)
 print(2. ** 3)
 print(2. ** 3)
 ```
-
-**multiplication**
+##2  **multiplication**
 ```
 print(2 * 3)
 print(2 * 3.)
@@ -109,14 +108,16 @@ print(2. * 3)
 print(2. * 3)
 ```
 
-```
-print("Basic operators\n----")
-print(" +\n")
-print(" -\n")
-print(" *\n")
-print(" /\n")
-print(" //\n")
-print(" %\n")
-print(" **\n")
-'''
+
+##2 **Basic operators**
+|Symbol|Name|
+|-----|------|
+| +| Addition|
+| -| Subtraction|
+| *|Multiplication|
+| /|Division (interger)|
+| //|Floor Division (integer)|
+| %|Remainder (modulo)|  
+| **|Exponation|
+
 
